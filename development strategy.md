@@ -1,9 +1,17 @@
 ## css text shadow mouse move effect: Development Strategy.md
+### step 0
+1 Watch and learn tutoral vedio
+2 Choose challange
+3 Creat repo
+5 Create issue(label and milstone)
+6 Create project(borad)
+4 Working in user story
 
 ### step 1
 #### READEME.md 
 In README.md file we will try to explain why we are choice this challange and what is our focus as team
 and biggners.
+
 
 ### step 2
 #### Create files
