@@ -1,11 +1,13 @@
 ## css text shadow mouse move effect: Development Strategy.md
+
+
 ### step 0
-1 Watch and learn tutoral vedio
-2 Choose challange
-3 Creat repo
-5 Create issue(label and milstone)
-6 Create project(borad)
-4 Working in user story
+1. Watch and learn tutoral vedio
+2. Choose challange
+3. Creat repo
+4. Create issue(label and milstone)
+5. Create project(borad)
+6. Working in user story
 
 ### step 1
 #### READEME.md 
