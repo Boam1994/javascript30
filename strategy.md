@@ -1,1 +1,0 @@
-javascript 30: Css Text Shadow Mouse Move Effect
