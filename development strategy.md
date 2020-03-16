@@ -31,5 +31,13 @@ side.
 
 ### step 5 
 #### Javascript user story (feruz)
+##### Dom
+1. Create script folder.
+2. Create handler.js hand listener.js inside script folder.
+3. attach handeler and listener files in to index.html
+##### handeler
+Create event handler for mouse move effect.Link the shadow with mouse movement.
+##### listener
+call a shadow and mouse movement event to display on screen.
 
  
