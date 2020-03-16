@@ -22,14 +22,22 @@ we will try to create necessary files to this challange(index.html, style.css, s
 ### step 3
 #### Divide challanges
 As a team we have to work together but we have to work diffrent step of
-this challange to avoid conflict in githiub.So we decide (name of person) to work HTML and CSS and (name of person) in javascript 
+this challange to avoid conflict in githiub.So we decide Boam to work HTML and CSS and Feruz in javascript 
 side.
 
 ### step 4
-#### HTML and CSS user story(name of person)
+#### HTML and CSS user story(Boam)
 
 
 ### step 5 
-#### Javascript user story (name of person)
+#### Javascript user story (feruz)
+##### Dom
+1. Create script folder.
+2. Create handler.js hand listener.js inside script folder.
+3. attach handeler and listener files in to index.html
+##### handeler
+Create event handler for mouse move effect.Link the shadow with mouse movement.
+##### listener
+call a shadow and mouse movement event to display on screen.
 
  
