@@ -16,21 +16,20 @@ and biggners.
 
 
 ### step 2
-#### Create files
-we will try to create necessary files to this challange(index.html, style.css, scripts(listener and handler))
-
-### step 3
 #### Divide challanges
 As a team we have to work together but we have to work diffrent step of
 this challange to avoid conflict in githiub.So we decide Boam to work HTML and CSS and Feruz in javascript 
 side.
 
+### step 3
+#### Create files
+we will try to create necessary files to this challange(index.html, style.css, scripts(listener and handler))
+
 ### step 4
-#### HTML and CSS user story(Boam)
+#### Create user story
+##### HTML and CSS user story(Boam)
 
-
-### step 5 
-#### Javascript user story (feruz)
+##### Javascript user story (feruz)
 ##### Dom
 1. Create script folder.
 2. Create handler.js hand listener.js inside script folder.
