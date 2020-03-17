@@ -28,6 +28,12 @@ we will try to create necessary files to this challange(index.html, style.css, s
 ### step 4
 #### Create user story
 ##### HTML and CSS user story(Boam)
+I created an html file
+##### Dom
+.body tag
+.div class="hero"
+.h1 contain the text shadow
+Created css file to style the html
 
 ##### Javascript user story (feruz)
 ##### Dom
