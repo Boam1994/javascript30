@@ -1,5 +1,5 @@
-const hero = document.querySelector('.hero');
-const text = hero.querySelector('h1');
+const hero = document.querySelectorAll('.hero');
+const text = hero.querySelectorAll('h1');
 const walk = 150;
 
 function shadow(e){
