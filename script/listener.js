@@ -1,1 +1,1 @@
-hero.addEventListener('mousemove', shadow);
+hero.addEventListener('mouseover', shadow);
